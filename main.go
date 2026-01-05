@@ -23,7 +23,7 @@ var (
 
 // GitHub release info for the main importer app
 const (
-	GitHubRepo = "immich-app/immich-importer"
+	GitHubRepo = "davidaniva/immich-importer"
 	AppVersion = "latest"
 )
 
